@@ -1,7 +1,8 @@
 
 ## About Me
 I am an Applied Economics graduate with experience in Python, data analysis, and market research. I enjoy building practical projects that transform raw data into actionable business insights. My interests include pricing analysis, competitor intelligence, forecasting, automation, and using analytics to support better decision-making.
-#Opent to work
+
+#Open to work
 # Ecommerce Data Scraper
 
 ## About This Project

@@ -2,10 +2,10 @@
 ## About Me
 I am an Applied Economics graduate with experience in Python, data analysis, and market research. I enjoy building practical projects that transform raw data into actionable business insights. My interests include pricing analysis, competitor intelligence, forecasting, automation, and using analytics to support better decision-making.
 #Opent to work
-# Amazon Data Scraper
+# Ecommerce Data Scraper
 
 ## About This Project
-This project is a Python-based data collection notebook designed to gather and organize product information from Amazon. The main goal of the project is to build a structured dataset that can be used for pricing analysis, competitor research, product benchmarking, and market intelligence. In this version of the project, the focus is on the welding helmet category, where product-level information is collected directly from listing and product pages.
+This project is a Python-based data collection notebook designed to gather and organize product information from Ecommerce. The main goal of the project is to build a structured dataset that can be used for pricing analysis, competitor research, product benchmarking, and market intelligence. In this version of the project, the focus is on the welding helmet category, where product-level information is collected directly from listing and product pages.
 
 The notebook automates the process of collecting product URLs, visiting each page, extracting key product attributes, and storing the results in a clean dataset for further analysis. In addition to standard product information such as title, price, rating, and review count, the project also captures more detailed attributes like brand, manufacturer, specifications, availability, product features, and images. This makes the dataset useful not only for descriptive reporting, but also for deeper business analysis.
 
